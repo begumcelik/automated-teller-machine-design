@@ -18,4 +18,4 @@ This project has been implemented for an undergraduate course CS303 - Logic & Di
 
 - **The seven segment driver** (ssd.v) module, drives the segments.
 
-- **The Top module (top_module.v)** binds the clock divider, the debouncer and the seven segment driver modules.
+- **The Top module** (top_module.v) binds the clock divider, the debouncer and the seven segment driver modules.
