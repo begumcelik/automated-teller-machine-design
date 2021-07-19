@@ -7,11 +7,15 @@ This project has been implemented for an undergraduate course CS303 - Logic & Di
 ## Contributors
 
 - Alp Cihan
+
 - Begüm Çelik
 
 ## Modules
 
 - The clock divider module (clk_divider.v) generates a clock signal with a period of 50 ms, from a 25 MHz input clock (Please note that the BASYS boards can provide 3 different clock frequency: 25 MHz, 50 MHz, 100 MHz. These are set using the jumpers on the BASYS boards. We set the clock of all BASYS boards to 25 MHz.).
+
 - The debouncer (debouncer.v) circuit gets the input from a push button and generates a one clock pulse output.
+
 - The seven segment driver (ssd.v) module, drives the segments.
+
 - The Top module (top_module.v) binds the clock divider, the debouncer and the seven segment driver modules.
