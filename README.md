@@ -1,4 +1,4 @@
-# ATM Design Implementation
+# ATM Design & Implementation
 
 ATM (Automated Teller Machine) was designed using Verilog and implemented on the BASYS FPGA board. 
 
